@@ -12,7 +12,7 @@ Once you have successfully launched the app, click settings.
 
 <img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/1ca0a982-72df-4f46-9060-4a57e8a371a9" />
 
-In the API url box, enter the api url for your desired model. (e.g. gemini api url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent)
+In the API url box, enter the api url for your desired model. (e.g. gemini api url: **https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent**)
 
 Then, in the api key box, enter in the API Key for the model you want. (Note: the api key's provider e.g OpenAI must match the providers api url.)
 
