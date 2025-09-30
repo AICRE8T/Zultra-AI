@@ -3,7 +3,8 @@ ________________________________________________________________________________
 
 This an app which uses an API KEY/URL to communicate with ai servers!
 
-**SETUP**
+****SETUP****
+
 Download the html file
 
 Open it in Google Chrome. *YOU CANNOT USE ANY OTHER BROWSER OR THE UI WILL BE ALL OVER THE PLACE!*
@@ -17,3 +18,8 @@ In the API url box, enter the api url for your desired model. (e.g. gemini api u
 Then, in the api key box, enter in the API Key for the model you want. (Note: the api key's provider e.g OpenAI must match the providers api url.)
 
 And Voila! you are Now setup! send a test message to ensure your system is in tip-top shape!
+
+****ERRORS?****
+
+Just post it in the issues tab and we will try to fix it in the next update.
+
